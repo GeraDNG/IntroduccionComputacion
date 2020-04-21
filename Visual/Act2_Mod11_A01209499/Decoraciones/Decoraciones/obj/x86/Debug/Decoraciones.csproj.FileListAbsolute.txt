@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\ACT2MOD11_A01209499\Decoraciones\Decoraciones\bin\Debug\Decoraciones.exe
+C:\Users\alumno\Desktop\ACT2MOD11_A01209499\Decoraciones\Decoraciones\bin\Debug\Decoraciones.pdb
+C:\Users\alumno\Desktop\ACT2MOD11_A01209499\Decoraciones\Decoraciones\obj\x86\Debug\Decoraciones.exe
+C:\Users\alumno\Desktop\ACT2MOD11_A01209499\Decoraciones\Decoraciones\obj\x86\Debug\Decoraciones.pdb

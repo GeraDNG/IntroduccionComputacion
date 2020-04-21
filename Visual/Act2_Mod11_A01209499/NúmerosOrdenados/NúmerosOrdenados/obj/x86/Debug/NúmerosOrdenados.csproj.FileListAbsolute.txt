@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\Act2_Mod11_A01209499\Act2_Mod11_A01209499\NúmerosOrdenados\NúmerosOrdenados\obj\x86\Debug\NúmerosOrdenados.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Act2_Mod11_A01209499\Act2_Mod11_A01209499\NúmerosOrdenados\NúmerosOrdenados\bin\Debug\NúmerosOrdenados.exe
+C:\Users\alumno\Desktop\Act2_Mod11_A01209499\Act2_Mod11_A01209499\NúmerosOrdenados\NúmerosOrdenados\bin\Debug\NúmerosOrdenados.pdb
+C:\Users\alumno\Desktop\Act2_Mod11_A01209499\Act2_Mod11_A01209499\NúmerosOrdenados\NúmerosOrdenados\obj\x86\Debug\NúmerosOrdenados.exe
+C:\Users\alumno\Desktop\Act2_Mod11_A01209499\Act2_Mod11_A01209499\NúmerosOrdenados\NúmerosOrdenados\obj\x86\Debug\NúmerosOrdenados.pdb

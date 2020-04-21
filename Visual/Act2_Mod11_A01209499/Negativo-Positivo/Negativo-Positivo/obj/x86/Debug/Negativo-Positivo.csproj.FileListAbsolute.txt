@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\ACT2MOD11_A01209499\Negativo-Positivo\Negativo-Positivo\bin\Debug\Negativo-Positivo.exe
+C:\Users\alumno\Desktop\ACT2MOD11_A01209499\Negativo-Positivo\Negativo-Positivo\bin\Debug\Negativo-Positivo.pdb
+C:\Users\alumno\Desktop\ACT2MOD11_A01209499\Negativo-Positivo\Negativo-Positivo\obj\x86\Debug\Negativo-Positivo.exe
+C:\Users\alumno\Desktop\ACT2MOD11_A01209499\Negativo-Positivo\Negativo-Positivo\obj\x86\Debug\Negativo-Positivo.pdb
