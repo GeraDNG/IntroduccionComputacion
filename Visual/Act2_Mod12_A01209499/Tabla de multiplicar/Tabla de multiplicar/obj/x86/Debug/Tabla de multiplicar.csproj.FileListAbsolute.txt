@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\Act2_Mod12_A01209499\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.exe
+C:\Users\alumno\Desktop\Act2_Mod12_A01209499\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.pdb
+C:\Users\alumno\Desktop\Act2_Mod12_A01209499\Tabla de multiplicar\Tabla de multiplicar\obj\x86\Debug\Tabla de multiplicar.exe
+C:\Users\alumno\Desktop\Act2_Mod12_A01209499\Tabla de multiplicar\Tabla de multiplicar\obj\x86\Debug\Tabla de multiplicar.pdb

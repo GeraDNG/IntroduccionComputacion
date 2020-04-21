@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\Act2_Mod12_A01209499\Sueldo más comisiones\Sueldo más comisiones\bin\Debug\Sueldo más comisiones.exe
+C:\Users\alumno\Desktop\Act2_Mod12_A01209499\Sueldo más comisiones\Sueldo más comisiones\bin\Debug\Sueldo más comisiones.pdb
+C:\Users\alumno\Desktop\Act2_Mod12_A01209499\Sueldo más comisiones\Sueldo más comisiones\obj\x86\Debug\Sueldo más comisiones.exe
+C:\Users\alumno\Desktop\Act2_Mod12_A01209499\Sueldo más comisiones\Sueldo más comisiones\obj\x86\Debug\Sueldo más comisiones.pdb

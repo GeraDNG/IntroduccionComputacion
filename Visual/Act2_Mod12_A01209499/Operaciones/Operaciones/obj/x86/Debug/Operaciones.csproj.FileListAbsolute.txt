@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\GGG\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\alumno\Desktop\GGG\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\alumno\Desktop\GGG\Operaciones\Operaciones\obj\x86\Debug\Operaciones.exe
+C:\Users\alumno\Desktop\GGG\Operaciones\Operaciones\obj\x86\Debug\Operaciones.pdb
