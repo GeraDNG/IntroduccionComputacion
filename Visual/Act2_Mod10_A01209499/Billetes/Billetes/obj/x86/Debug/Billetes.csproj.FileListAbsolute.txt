@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\Billetes\Billetes\bin\Debug\Billetes.exe
+C:\Users\alumno\Desktop\Billetes\Billetes\bin\Debug\Billetes.pdb
+C:\Users\alumno\Desktop\Billetes\Billetes\obj\x86\Debug\Billetes.exe
+C:\Users\alumno\Desktop\Billetes\Billetes\obj\x86\Debug\Billetes.pdb

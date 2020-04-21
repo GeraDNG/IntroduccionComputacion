@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\Distancia\Distancia\bin\Debug\Distancia.exe
+C:\Users\alumno\Desktop\Distancia\Distancia\bin\Debug\Distancia.pdb
+C:\Users\alumno\Desktop\Distancia\Distancia\obj\x86\Debug\Distancia.exe
+C:\Users\alumno\Desktop\Distancia\Distancia\obj\x86\Debug\Distancia.pdb
+C:\Users\alumno\Desktop\Distancia\Distancia\obj\x86\Debug\Distancia.csprojResolveAssemblyReference.cache

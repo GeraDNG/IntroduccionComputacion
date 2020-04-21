@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\IVA\IVA\bin\Debug\IVA.exe
+C:\Users\alumno\Desktop\IVA\IVA\bin\Debug\IVA.pdb
+C:\Users\alumno\Desktop\IVA\IVA\obj\x86\Debug\IVA.exe
+C:\Users\alumno\Desktop\IVA\IVA\obj\x86\Debug\IVA.pdb
