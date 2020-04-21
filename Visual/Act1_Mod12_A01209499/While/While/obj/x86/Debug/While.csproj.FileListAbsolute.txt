@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\While\While\bin\Debug\While.exe
+C:\Users\alumno\Desktop\While\While\bin\Debug\While.pdb
+C:\Users\alumno\Desktop\While\While\obj\x86\Debug\While.exe
+C:\Users\alumno\Desktop\While\While\obj\x86\Debug\While.pdb

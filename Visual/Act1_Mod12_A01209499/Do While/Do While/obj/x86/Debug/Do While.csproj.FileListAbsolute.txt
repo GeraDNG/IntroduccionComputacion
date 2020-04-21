@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\Do While\Do While\bin\Debug\Do While.exe
+C:\Users\alumno\Desktop\Do While\Do While\bin\Debug\Do While.pdb
+C:\Users\alumno\Desktop\Do While\Do While\obj\x86\Debug\Do While.exe
+C:\Users\alumno\Desktop\Do While\Do While\obj\x86\Debug\Do While.pdb

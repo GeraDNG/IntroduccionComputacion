@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\Act1_Mod10_A01209499\Mi primer programa\Mi primer programa\bin\Debug\Mi primer programa.exe
+C:\Users\alumno\Desktop\Act1_Mod10_A01209499\Mi primer programa\Mi primer programa\bin\Debug\Mi primer programa.pdb
+C:\Users\alumno\Desktop\Act1_Mod10_A01209499\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.exe
+C:\Users\alumno\Desktop\Act1_Mod10_A01209499\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.pdb

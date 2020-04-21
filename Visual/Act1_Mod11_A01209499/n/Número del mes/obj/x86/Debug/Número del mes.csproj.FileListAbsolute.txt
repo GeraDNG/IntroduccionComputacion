@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\Número del mes\Número del mes\bin\Debug\Número del mes.exe
+C:\Users\alumno\Desktop\Número del mes\Número del mes\bin\Debug\Número del mes.pdb
+C:\Users\alumno\Desktop\Número del mes\Número del mes\obj\x86\Debug\Número del mes.exe
+C:\Users\alumno\Desktop\Número del mes\Número del mes\obj\x86\Debug\Número del mes.pdb

@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\Par e Impar\Par e Impar\bin\Debug\Par e Impar.exe
+C:\Users\alumno\Desktop\Par e Impar\Par e Impar\bin\Debug\Par e Impar.pdb
+C:\Users\alumno\Desktop\Par e Impar\Par e Impar\obj\x86\Debug\Par e Impar.exe
+C:\Users\alumno\Desktop\Par e Impar\Par e Impar\obj\x86\Debug\Par e Impar.pdb

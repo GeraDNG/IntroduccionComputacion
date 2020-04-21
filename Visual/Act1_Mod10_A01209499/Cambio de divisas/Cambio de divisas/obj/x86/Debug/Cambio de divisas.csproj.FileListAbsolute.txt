@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\Act1_Mod10_A01209499\Cambio de divisas\Cambio de divisas\bin\Debug\Cambio de divisas.exe
+C:\Users\alumno\Desktop\Act1_Mod10_A01209499\Cambio de divisas\Cambio de divisas\bin\Debug\Cambio de divisas.pdb
+C:\Users\alumno\Desktop\Act1_Mod10_A01209499\Cambio de divisas\Cambio de divisas\obj\x86\Debug\Cambio de divisas.exe
+C:\Users\alumno\Desktop\Act1_Mod10_A01209499\Cambio de divisas\Cambio de divisas\obj\x86\Debug\Cambio de divisas.pdb
