@@ -3,4 +3,4 @@ Materia de introducción a la computación, cursada en el Tecnológico de Monter
 
 El curso consistió de una introducción al mundo de las computadoras y a los algoritmos de programación.
 
-Se utilizó el software Raptor.
+Se utilizó el software Raptor, eclipse, Visual Studio y Excel.
